@@ -22,7 +22,7 @@ EmptyBox é um navegador focado em anonimato, desenvolvido em Python utilizando 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/StreamStudio1/EmptyBox.git
+   git clone https://github.com/WebAether/EmptyBox.git
    ```
 
 2. Instale as dependências:
@@ -60,8 +60,8 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICEN
 
 ## Contato
 
-- **Autor**: StreamStudio1  
-- **Email**: [streamstudio@proton.me](mailto:streamstudio@proton.me)
+- **Autor**: WebAether  
+- **Email**: [ian.mont2010@gmail.com](mailto:ian.mont2010@gmail.com)
 
 ---
 
