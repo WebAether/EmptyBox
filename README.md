@@ -17,6 +17,7 @@ EmptyBox é um navegador focado em anonimato, desenvolvido em Python utilizando 
 
 - Python 3.8 ou superior
 - PyQt5
+- PyQtWebEngine
 
 ## Instalação
 
